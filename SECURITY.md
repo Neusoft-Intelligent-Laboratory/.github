@@ -1,5 +1,20 @@
 # 安全与隐私 · Security and Privacy
 
+## English
+
+We pay attention to data leakage, unauthorized actions, prompt injection, and private information left in examples.
+
+- If a repository has enabled GitHub private vulnerability reporting, use its Security page.
+- Otherwise, open an Issue only to request a safe contact channel. Do not include exploit details, credentials, or personal data in public.
+- Where possible, provide affected versions, environment details, a minimal reproduction, and the expected impact, using fictional data.
+- Never upload credentials, private personnel records, internal files, or data you are not authorized to share.
+
+Public source code does not determine where data goes during use. Review the actual models, plugins, services, and permissions in your setup.
+
+---
+
+## 简体中文
+
 我们关注 AI 工具中的数据泄露、越权执行、提示注入以及示例材料中的隐私残留。
 
 ## 发现问题时

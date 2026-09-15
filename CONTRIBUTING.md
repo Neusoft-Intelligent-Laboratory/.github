@@ -1,10 +1,28 @@
 # 参与鲁滨逊 · Contributing
 
+## English
+
+We welcome practical questions, documentation improvements, translations, reproducible experiments, fictional examples, and focused code contributions.
+
+Start with the project's Issues. Discuss substantial changes first, then submit a pull request explaining the problem, the change, and how you checked it. A pull request is a proposal for maintainers to review and merge a change.
+
+- Keep each contribution focused on one problem.
+- Separate ideas from implemented capabilities; report experimental conditions and limitations.
+- Use fictional or appropriately anonymized data. Do not submit credentials, private records, internal documents, or material you cannot share.
+- Respect attribution, dependencies, and the target project's license.
+- Follow our community standards and make feedback constructive.
+
+Contributions in English and Chinese are welcome. You can start with a clear question or a small improvement.
+
+---
+
+## 简体中文
+
 欢迎一起研究 AI 管理，探索更亲和人的 FridayOS。技术、管理、设计与日常使用经验，都能帮助我们看清问题。
 
 ## 从哪里开始
 
-- 在 [FridayOS 1.0 Issues](https://github.com/Neusoft-Intelligent-Laboratory/FridayOS1.0/issues) 提出真实问题、改进建议或研究主题。
+- 在 [FridayOS 1.0 Issues](https://github.com/Robinson-AI-Lab/FridayOS1.0/issues) 提出真实问题、改进建议或研究主题。
 - 改进入门说明与翻译，让没有工程背景的人也能理解。
 - 提交可复现的实验记录：问题、环境、步骤、观察、局限与结论。
 - 贡献代码、工具连接、交互改进或虚构示例。

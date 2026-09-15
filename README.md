@@ -1,11 +1,15 @@
-# 鲁滨逊 · Robinson AI Lab
+# Robinson AI Lab · 鲁滨逊
 
-本仓库保存鲁滨逊实验室的公开组织介绍与社区协作说明。
+Human-centered AI research, open collaboration, and shared learning.
+以人为本的 AI 研究、开放协作与共同学习。
 
-- [组织介绍](profile/README.md)：公益研究定位、研究方向、FridayOS 与参与方式。
-- [贡献指南](CONTRIBUTING.md)：如何参与研究、文档、示例与代码共创。
-- [行为准则](CODE_OF_CONDUCT.md)：尊重、包容与建设性讨论。
-- [安全说明](SECURITY.md)：隐私保护与漏洞报告。
-- [FridayOS 1.0](https://github.com/Neusoft-Intelligent-Laboratory/FridayOS1.0)：当前公开实践入口。
+## Explore · 导航
 
-各项目的实现范围与许可证以对应仓库为准。
+- Lab introduction / 实验室介绍: [English](profile/README.md) · [简体中文](profile/README.zh-CN.md)
+- Owen Teng / 滕新阳: [English](people/owen-teng.md) · [简体中文](people/owen-teng.zh-CN.md)
+- [FridayOS 1.0](https://github.com/Robinson-AI-Lab/FridayOS1.0) — our public practice project / 公开实践项目
+- [Contributing / 贡献指南](CONTRIBUTING.md)
+- [Community standards / 行为准则](CODE_OF_CONDUCT.md)
+- [Security / 安全说明](SECURITY.md)
+
+Capabilities and licensing are documented in each project. 各项目的能力与许可证以对应仓库为准。

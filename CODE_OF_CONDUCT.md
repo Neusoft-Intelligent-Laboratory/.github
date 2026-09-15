@@ -1,5 +1,21 @@
 # 行为准则 · Code of Conduct
 
+## English
+
+Robinson aims to provide a welcoming, inclusive, evidence-minded space for research and collaboration.
+
+- Respect different backgrounds, abilities, identities, and views. Harassment, discrimination, and personal attacks are not acceptable.
+- Discuss problems and evidence, explain disagreements, and offer actionable suggestions.
+- Support newcomers by explaining unfamiliar concepts.
+- Respect privacy, intellectual property, and attribution.
+- Do not publish private information, spam, or unrelated promotions.
+
+These standards apply to organization repositories, Issues, pull requests, and activities conducted in the lab's name. Maintainers may request edits, hide inappropriate content, or restrict participation as appropriate. Contact repository maintainers about concerns; public reports should include only necessary facts and no private information.
+
+---
+
+## 简体中文
+
 鲁滨逊希望提供友好、包容、尊重事实的研究与协作空间。
 
 - 尊重不同背景、能力、身份与观点，不歧视、不骚扰、不做人身攻击。
